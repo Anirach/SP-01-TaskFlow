@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Team task workspace to organize tasks by project, assign owners and deadlines, and collaborate in board or list view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
